@@ -1,10 +1,5 @@
 '''
-yousra samir elamir
-Karma yasser ismaiel
-fatma amr biomy
-omar mohamed hamed
-hasnaa sayed abdo
-youssef samir elamir
+
 '''
 import numpy as np
 choice = input("please choose the molecule type DNA or protein (1/2): ")
