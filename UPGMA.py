@@ -1,10 +1,5 @@
 '''
-yousra samir elamir
-Karma yasser ismaiel
-fatma amr biomy
-omar mohamed hamed
-hasnaa sayed abdo
-youssef samir elamir
+
 '''
 
 import pandas as pd
